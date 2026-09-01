@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: plot-utils-project
+Version: 0.1.0
+Summary: Plotting utilities and styles
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pymatgen
+
+![heatmap](https://github.com/ModifiedBear/CustomMakiePlots/blob/master/heatmap.png)
