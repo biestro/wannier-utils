@@ -18,4 +18,4 @@ dependencies = [
 where = ["src"]
 
 [tool.setuptools.package-data]
-plot_utils = ["*.mplstyle"]
+wannier_utils = ["*.mplstyle"]

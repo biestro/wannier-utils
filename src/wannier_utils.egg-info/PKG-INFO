@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: wannier-utils
+Version: 0.1.0
+Summary: Plotting utilities and styles
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pymatgen
+
+Collection of plot utilities and wannier utilities
+
+# Installation
+
+```bash
+uv pip install git+https://github.com/biestro/wannier-utils.git
+```
+
+
+# TODO:
+- [ ] Add band manifold utilities
+- [ ] Add tight binding utilities (or keep this in atomate2-wannier)

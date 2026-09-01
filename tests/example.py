@@ -4,7 +4,7 @@ from pymatgen.io.vasp import Vasprun
 from pymatgen.electronic_structure.core import Spin
 import os
 
-from wannier_tools import get_kticks
+from wannier_utils import get_kticks
 
 if __name__=="__main__":
     cwd = os.path.dirname(__file__)
